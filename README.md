@@ -16,7 +16,7 @@
 
 ###
 
-<br clear="both">
+
 
 <img align="right" height="200" src="mapache-pedro.gif" />
 
