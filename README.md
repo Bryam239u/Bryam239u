@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://imgur.com/gallery/pedro-loop-a1SXTx2.gif"  />
+<img align="right" height="200" src="mapache-pedro.gif" />
 
 ###
 
