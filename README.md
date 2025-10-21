@@ -16,10 +16,9 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="200" src="mapache-pedro.gif" />
 
+<br clear="both">
 ###
 
 <h6 align="left">* ✨ Creating bugs since ~2019<br>* 📚 I'm currently learning Core programming concepts and Database management (Oracle SQL).<br>* 🎯 Goals: Graduate and find a developer role where I can contribute and continue to grow.<br>* 🎲 Fun fact: I'm a huge football (soccer) fan and a proud FC Barcelona supporter.<br>* 💬 Native Spanish speaker, constantly improving my English (and trying my best in Java/C#/etc. 😉).</h6>
